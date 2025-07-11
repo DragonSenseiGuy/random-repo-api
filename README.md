@@ -38,7 +38,7 @@ This is a simple [Flask](https://flask.palletsprojects.com/en/stable/) applicati
 3. **Install dependencies**
 
    ```bash
-   pip3 install requirements.txt
+   pip3 -r install requirements.txt
    ```
 
 4. **Set your GitHub token as an environment variable**
